@@ -29,6 +29,7 @@ public class TestServlet extends HttpServlet {
 		System.out.println("Main");
 		System.out.println("Main2");
 		System.out.println("Main3");
+		System.out.println("hotfix에 추가한다!");
 	}
 
 	/**
